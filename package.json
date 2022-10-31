@@ -1,0 +1,27 @@
+{
+  "name": "discord-v12-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "description": "Discord uygulaması için tasarlanmış, herkesin anlayabileceği bir altyapıdır.",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "fs": "^0.0.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "discord",
+    "template"
+  ]
+}
