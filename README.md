@@ -18,9 +18,6 @@ Bu botu oluşturmak ve çalışır hale getirmek için kullanılan modüller aş
 
 ## [util](https://www.npmjs.com/package/util/)
 
-## [crypto](https://www.npmjs.com/package/crypto/)
-
-## [node-fetch](https://www.npmjs.com/package/node-fetch/)
 ## Projeyi Sahiplen
 
 Artık hazırsın! Projeyi kendi projen haline getirmek için aşağıda yer alan butona tıklaman gerekiyor.
